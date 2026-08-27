@@ -101,6 +101,8 @@ Projetos e desenvolvimento
      ↓
 🚀 Carreira em Tecnologia
 
+---
+
 ### 📫 Como me encontrar
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com) pvbicalho@gmail.com
